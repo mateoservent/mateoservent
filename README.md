@@ -1,10 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am usually working in political data science
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateoservent&hide=javascript,html,css,scss,tex,ts,php&langs_count=2&theme=transparent&layout=compact)
-
-
+I am usually working in computational political science
 
 <!--
 **mateoservent/mateoservent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
